@@ -7,7 +7,7 @@ Simple script for converting a color palette from [Lospec](https://lospec.com/pa
 ## Usage
 
 1. `pip install lospec2css`
-2. `python lospec2css.py input output`
+2. `python -m lospec2css <input_file> <output_file>`
 
 ## Example
 
